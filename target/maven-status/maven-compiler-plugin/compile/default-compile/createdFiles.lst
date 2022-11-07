@@ -1,0 +1,10 @@
+com\makarov\testProject\MainApplicationEmployee.class
+com\makarov\testProject\entity\Employee.class
+com\makarov\testProject\Service\EmployeeService.class
+com\makarov\testProject\controller\DepartmentController.class
+com\makarov\testProject\Service\DepartmentService.class
+com\makarov\testProject\controller\employeeController.class
+com\makarov\testProject\repository\EmployeeRepo.class
+com\makarov\testProject\dto\EmployeeDto.class
+com\makarov\testProject\entity\Department.class
+com\makarov\testProject\repository\DepartmentRepo.class
